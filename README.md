@@ -1,6 +1,1 @@
-   /\ 
-  /  \  
- /    \ 
-/ _  _ \
-
-
+triangle ThumbUp
